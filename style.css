@@ -1,0 +1,107 @@
+.body {
+    font-family: Montserrat,
+    sans-serif;
+    background-color: F5F7FA;
+    
+}
+
+.main {
+    width: 1200px;
+    margin:  auto;
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+
+.header {
+    width: 1196px;
+    height: 307px;
+    border: 1px blue;
+    
+    
+}
+
+.filter {
+    background: url(/img/Фон.png);
+    background-size: contain;
+}
+
+
+.heade1 {
+    float: left;
+    margin: 50px 0px 15px 58px;
+}
+
+.heade2 {
+    float: left;
+    margin: 85px 20px 0 -222px;
+}
+
+.heade3 {
+    float: left;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 140px 20px 0 -295px ;
+    width: 320px;
+    
+}
+
+.imgh {
+    float: right;
+}
+.education {
+    margin-top: 50px;
+}
+
+.tech-skills {
+    float: right;
+    margin-top: -650px;
+    margin-right: 100px;
+}
+
+.button-techskills {
+    margin-right: px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+/* Стилі soft-skills */
+.soft-skills {
+    float: right;
+    margin-top: -400px;
+    margin-right: 100px;
+}
+
+.button-softskills {
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.contact {
+    float: right;
+    margin-top: -175px;
+    margin-right: px;
+}
+
+/*Education*/
+.colege {
+    color: red;
+}
+
+.time {
+    font-size: 14px;
+    padding-top: -9px;
+    
+}
+
+.certificat {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.certificate {
+    width: 600px;
+    margin-top: 30px;
+}
